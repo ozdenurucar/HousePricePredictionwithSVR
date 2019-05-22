@@ -21,3 +21,4 @@ Daha sonra veriler üzerinde Temel Bileşen Analizi(PCA) uygulanmıştır.
 
 Gerekli ön işleme ve özellik çıkarım işlemleri tammalandıktan sonra Support Vector Machine sınıflandırıcıların Regresyon çeşiti olan Support Vector Regression modeli ile eğitim gerçekleştirilmiştir.
 
+Modelin accuracy değeri %89.93 'tür.
